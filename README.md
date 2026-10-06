@@ -1,6 +1,6 @@
 # Klipper
 
-A simple clipboard history for GNOME (built for Zorin OS 18 / GNOME Shell 46).
+A simple clipboard history for GNOME (built and tested on Zorin OS 18 / GNOME Shell 46).
 
 - **Super+V** opens the history at your mouse pointer (press it again or **Esc** to close)
 - Type to search, **↑ / ↓** to move, **Enter** or click to paste

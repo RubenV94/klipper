@@ -57,3 +57,6 @@ If the log says it could not grab Super+V, another app or a custom shortcut is u
 ## License
 
 MIT
+
+
+<img width="1001" height="645" alt="image" src="https://github.com/user-attachments/assets/92e4e0d8-21f8-4561-a83e-3a56a656ffc3" />

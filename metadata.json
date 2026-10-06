@@ -1,0 +1,8 @@
+{
+  "uuid": "klipper@rubenv94.github.io",
+  "name": "Klipper",
+  "description": "A simple clipboard history for text, pictures and screenshots. Press Super+V to open it, Enter or click to paste.",
+  "shell-version": ["46", "47", "48"],
+  "url": "https://github.com/RubenV94/klipper",
+  "version-name": "0.2.0"
+}

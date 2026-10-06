@@ -1,0 +1,88 @@
+.klipper-popup {
+  width: 380px;
+  height: 460px;
+  padding: 10px;
+  spacing: 8px;
+  border-radius: 14px;
+  background-color: rgba(34, 34, 38, 0.97);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  color: #f2f2f2;
+}
+
+.klipper-header {
+  padding: 2px 4px;
+}
+
+.klipper-title {
+  font-weight: bold;
+  font-size: 11pt;
+}
+
+.klipper-clear {
+  padding: 4px 10px;
+  border-radius: 8px;
+  font-size: 9pt;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.klipper-clear:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.klipper-search {
+  border-radius: 8px;
+  padding: 6px 10px;
+}
+
+.klipper-list {
+  spacing: 6px;
+}
+
+.klipper-row {
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 2px;
+}
+
+.klipper-row:hover {
+  background-color: rgba(255, 255, 255, 0.09);
+}
+
+.klipper-row:selected {
+  background-color: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.28);
+}
+
+.klipper-item {
+  padding: 8px 10px;
+  border-radius: 8px;
+}
+
+.klipper-text {
+  font-size: 10pt;
+}
+
+.klipper-icon-btn {
+  padding: 6px;
+  border-radius: 8px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.klipper-icon-btn:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+  color: #ffffff;
+}
+
+.klipper-thumb {
+  width: 290px;
+  height: 90px;
+  background-size: contain;
+}
+
+.klipper-empty {
+  padding: 40px 0;
+  color: rgba(255, 255, 255, 0.5);
+}
